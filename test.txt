@@ -1,2 +1,1 @@
 Hello, World!
-Add new linde to learn rebase function on master branch
