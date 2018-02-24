@@ -1,2 +1,1 @@
-Hello, Nikita dev branch!
-Changed on dev branch! Modified on master branch!
+Hello, Nikita!
