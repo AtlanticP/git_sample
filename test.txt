@@ -1,1 +1,1 @@
-remote repo. Commit 2
+Hello, NikID! It's new commit to push
