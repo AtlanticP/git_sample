@@ -1,4 +1,4 @@
 let's start again to study --rebase
 
 commit 1
-
+commit 3
