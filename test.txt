@@ -1,1 +1,1 @@
-Hello, NikID! It's new commit to push
+Hello, NikID! To study pull --rebase again
