@@ -1,1 +1,2 @@
-Hello, NikID! It's new commit to push
+Hello, NikID!
+commit 1 pull --rebase
